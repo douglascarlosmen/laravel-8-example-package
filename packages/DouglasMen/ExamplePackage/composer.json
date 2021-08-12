@@ -1,0 +1,16 @@
+{
+    "name": "douglas-men/example-package",
+    "description": "Pacote de Exemplo desenvolvido para Laravel 8",
+    "autoload": {
+        "psr-4": {
+            "DouglasMen\\ExamplePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Douglas Men",
+            "email": "douglas@schoolofnet.com"
+        }
+    ],
+    "require": {}
+}
